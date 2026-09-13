@@ -1,0 +1,6 @@
+{
+  "name": "Urban Grove Cafe",
+  "description": "A professionally designed 2009 Web 2.0 styled website for Urban Grove Cafe, featuring beveled navigation tabs, glossy buttons, complete menu, gallery lightbox, events, and modern responsive usability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
