@@ -2,6 +2,10 @@ import React from 'react';
 import { NavTab, NewsItem } from '../types';
 import { TODAY_SPECIAL, SERVICES_LIST, LATEST_NEWS, CUSTOMER_REVIEWS } from '../data/cafeData';
 import { Coffee, Croissant, Utensils, PartyPopper, Star, ArrowRight, Tag, Heart, Award } from 'lucide-react';
+import { BrokenImageWidget } from './BrokenImageWidget';
+import { FlashPluginBox } from './FlashPluginBox';
+import { GlitchAudioPlayer } from './GlitchAudioPlayer';
+import { UnderConstructionBox } from './UnderConstructionBox';
 
 interface HomeViewProps {
   onNavigate: (tab: NavTab) => void;
